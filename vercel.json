@@ -1,6 +1,5 @@
 {
   "buildCommand": "pnpm build",
   "devCommand": "pnpm start",
-  "installCommand": "pnpm install --no-frozen-lockfile",
-  "framework": "react"
+  "installCommand": "pnpm install --no-frozen-lockfile"
 }
