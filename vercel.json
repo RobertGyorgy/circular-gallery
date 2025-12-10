@@ -1,5 +1,8 @@
 {
   "buildCommand": "pnpm build",
   "devCommand": "pnpm start",
-  "installCommand": "pnpm install"
+  "installCommand": "pnpm install",
+  "env": {
+    "CI": "true"
+  }
 }
