@@ -3,7 +3,7 @@ node_modules/
 .pnpm-store/
 
 # Lock files (optional - comment out if you want to commit lock files)
-# pnpm-lock.yaml
+# pnpm-lock.yaml is committed for Vercel deployments
 # package-lock.json
 # yarn.lock
 

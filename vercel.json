@@ -1,5 +1,5 @@
 {
   "buildCommand": "pnpm build",
   "devCommand": "pnpm start",
-  "installCommand": "pnpm install --no-frozen-lockfile"
+  "installCommand": "pnpm install"
 }
